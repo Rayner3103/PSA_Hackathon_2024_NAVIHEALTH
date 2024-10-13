@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use("/record", records);
-
+app.use('/assets', express.static('utils/data'));
 // start the Express server
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
