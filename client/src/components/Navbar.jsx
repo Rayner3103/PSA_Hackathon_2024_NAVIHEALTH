@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import psalogo from "../assets/psa_logo.png";
+import teamlogo from "../assets/teamlogo.jpg"
 
 const Links = [
     { name: "Solution1", link: "/" },
