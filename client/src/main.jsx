@@ -37,7 +37,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/Solution2",
-        element: <Record />,
+        element: <RecordList />,
       },
     ],
   },
