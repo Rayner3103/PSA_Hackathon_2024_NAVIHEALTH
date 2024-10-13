@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="620" src="public/teamlogo.jpg" alt="NAVIHEALTH Logo">
+  <img width="620" src="client/public/teamlogo.jpg" alt="NAVIHEALTH Logo">
 </p>
 
 # NAVIHEALTH:
@@ -15,7 +15,7 @@ SmartNavigator+ is an upgraded system incorporates AI predictive analytics to id
 SmartFleet digitally replicates vital port facilities, including quay cranes and AGVs, by utilising sensors and IoT devices to collect real-time data. By incorporating AI health monitoring, machine learning can be employed to proactively predict potential failures before they happen.
 
 ### Architecture Diagram
-<img width="600" src="public/architecture.png" alt="architecture diagram"> <br>
+<img width="600" src="client/public/architecture.png" alt="architecture diagram"> <br>
 
 ### Team Members :busts_in_silhouette:
 
