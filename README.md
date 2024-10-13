@@ -8,13 +8,13 @@ PSA Code Sprint Hackathon 2024 <br>
 ## About :blue_book:
 NAVIHEALTH is a predictive model that leverages the power of data and AI, to create resilient port operations globally. It has 2 key features: SmartNavigator+ and SmartFleet. 
 
-**1. SmartNavigator+ :AI: [Resilience]** <br>
+**1. SmartNavigator+ 🧠 [Resilience]** <br>
 SmartNavigator+ is an upgraded system incorporates AI predictive analytics to identify potential risks such as geopolitical tension and weather anomalies, before they occur, making it proactive rather than reactive.
 
 **2. SmartFleet :bulb: [Proactive]** <br>
 SmartFleet digitally replicates vital port facilities, including quay cranes and AGVs, by utilising sensors and IoT devices to collect real-time data. By incorporating AI health monitoring, machine learning can be employed to proactively predict potential failures before they happen.
 
-### Architecture Diagram
+### Architecture Diagram 
 <img width="600" src="client/public/architecture.png" alt="architecture diagram"> <br>
 
 ### Team Members :busts_in_silhouette:
