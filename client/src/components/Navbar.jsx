@@ -26,14 +26,14 @@ export default function Navbar() {
                     className="md:ml-8 text-lg md:my-0 my-7"
                     to="/"
                 >
-                    Solution 1
+                    SmartNavigator +
                 </NavLink>
 
                 <NavLink
                     className="md:ml-8 text-lg md:my-0 my-7"
                     to="/Solution2"
                 >
-                    Solution2
+                    SmartFleet
                 </NavLink>
                 </div>
             </nav>

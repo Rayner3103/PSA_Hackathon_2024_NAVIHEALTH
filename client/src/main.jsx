@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 import App from "./App";
 import Record from "./components/Record";
+import GlobePlugin from "./components/GlobePlugin";
 import RecordList from "./components/RecordList";
 import "./index.css";
 
@@ -16,7 +17,7 @@ const router = createBrowserRouter([
     children: [
       {
         path: "/",
-        element: <RecordList />,
+        element: <GlobePlugin />,
       },
     ],
   },

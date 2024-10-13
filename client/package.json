@@ -10,8 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "antd": "^5.21.3",
+    "d3": "^7.9.0",
+    "index-array-by": "^1.4.2",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-globe.gl": "^2.27.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
