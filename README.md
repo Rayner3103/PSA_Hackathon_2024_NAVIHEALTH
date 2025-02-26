@@ -14,6 +14,9 @@ SmartNavigator+ is an upgraded system incorporates AI predictive analytics to id
 **2. SmartFleet :bulb: [Proactive]** <br>
 SmartFleet digitally replicates vital port facilities, including quay cranes and AGVs, by utilising sensors and IoT devices to collect real-time data. By incorporating AI health monitoring, machine learning can be employed to proactively predict potential failures before they happen.
 
+### Demo
+https://psa-hackathon-2024-navihealth.vercel.app/
+
 ### Architecture Diagram 
 <img width="600" src="client/public/architecture.png" alt="architecture diagram"> <br>
 
